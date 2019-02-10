@@ -23,7 +23,7 @@ module.exports = function() {
 		};
     request.open("get", src, true);
     request.send();
-  }
+  };
 
 	function hotDownloadManifest(timeout) { // eslint-disable-line no-unused-vars
 		timeout = timeout || 1000;
