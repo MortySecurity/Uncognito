@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/Expose-Me.iml" filepath="$PROJECT_DIR$/.idea/Expose-Me.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Uncognito/.idea/Uncognito.iml" filepath="$PROJECT_DIR$/../Uncognito/.idea/Uncognito.iml" />
     </modules>
   </component>
 </project>
